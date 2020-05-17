@@ -10,3 +10,4 @@ pop = [2.519, 3.692, 5.263, 6.972]
 
 plt.scatter(year, pop)
 plt.show()
+
